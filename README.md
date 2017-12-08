@@ -12,3 +12,5 @@ my friend has this cool animation project we're trying to do but it's too time c
 agh might as well start doing homework again or something
 
 sighh I wish I had more time to code
+
+you know what screw it i'm just gonna make hello world programs in every language I know
