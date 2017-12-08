@@ -10,3 +10,5 @@ anyways perhaps I should actually start working on something cool with git
 but idk I have no ideas
 my friend has this cool animation project we're trying to do but it's too time consuming to do right now
 agh might as well start doing homework again or something
+
+sighh I wish I had more time to code
